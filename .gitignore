@@ -7,7 +7,6 @@
 *.class
 bin/
 gen/
-build/
 out/
 
 # Ignoring Gradle build artifacts and project files
@@ -15,7 +14,6 @@ out/
 .gradle/
 gradle-app.setting
 !gradle-wrapper.jar
-build/
 
 # Ignoring Maven build artifacts and project files
 ##----------Maven----------
